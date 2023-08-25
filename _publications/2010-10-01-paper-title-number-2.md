@@ -9,8 +9,6 @@ paperurl: '[Download paper here](https://www.emerald.com/insight/content/doi/10.
 citation: ''
 ---
 
-
----
 This paper is about the number 2. The number 3 is left for future work.
 
 
