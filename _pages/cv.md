@@ -22,6 +22,13 @@ Education
   * Majors: Business Administration & Applied Statistics (Dual Degree)
 * **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  
 Teaching
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
