@@ -11,7 +11,7 @@ redirect_from:
 
 Curriculum Vitae
 ======
-Will be upleaded
+A PDF will be upleaded
 
 Education
 ======
