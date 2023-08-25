@@ -1,6 +1,6 @@
 ---
 title: "BAIT508: Business Analytics Programming"
-collection: teaching
+collection: ta
 type: "Graduate: Master of Business Analytics"
 permalink: /ta/BAIT508
 venue: "Sauder School of Business, University of British Columbia"
