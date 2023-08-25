@@ -7,6 +7,8 @@ venue: "Sauder School of Business, University of British Columbia"
 date: 2023-09-01
 ---
 
+ 
+
 Description
 ======
 Introduction to object-oriented computer programming; computational thinking; program design; scripting; documentation techniques; file handling; database access; and web crawling techniques. Students will apply data structures and programming constructs to the development of business analytics and other related applications. 
