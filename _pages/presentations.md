@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* denotes the presentation by a co-author.
+\* denotes the presentation by a co-author.
 
 [19]	**J. Park**, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, _KrAIS Summer Workshop_, Seoul, Korea.
 
