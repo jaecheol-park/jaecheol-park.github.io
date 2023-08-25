@@ -1,7 +1,7 @@
 ---
 title: "COMM337: Business Programming and Analytics (Fall 2023)"
 collection: teaching
-type: "Undergraduate"
+type: "**Undergraduate**"
 permalink: /teaching/COMM337
 venue: "Sauder School of Business, University of British Columbia"
 date: 2023-09-01
