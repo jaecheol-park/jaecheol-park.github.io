@@ -15,6 +15,7 @@ Myunghwan Lee, Gene Moo Lee, Victor Cui (2023) “Go beyond the Local Search: Un
 
 [1]	**J. Park**, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, _KrAIS Summer Workshop_, Seoul, Korea.
 
+
 [1]	**J. Park**, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, _Montreal Symposium on IS Research (MSISR)_, Montreal, Quebec.
 
 [2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Bright Internet Global Summit (BIGS)_, Virtual.
