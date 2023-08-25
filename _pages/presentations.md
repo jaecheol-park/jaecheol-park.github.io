@@ -7,28 +7,35 @@ author_profile: true
 
 {% include base_path %}
 
-Presenters are denoted by an asterisk in the list.
+* denotes the presentation by a co-author.
 
 Education
 ======
 Myunghwan Lee, Gene Moo Lee, Victor Cui (2023) “Go beyond the Local Search: Understanding the Impact of AI Capabilities on Exploratory Innovation”, Conference on Information Systems and Technology (CIST 2023), Oct 14-15, 2023, Pheonix, AZ.
 
-[1]	J. Park, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, KrAIS Summer Workshop, Seoul, Korea, July 2023.
-•	Montreal Symposium on IS Research (MSISR), Montreal, Quebec, May 2023.
-•	
-[2]	J. Park, A. Aziz, and G. M. Lee. “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com” 
-•	Bright Internet Global Summit (BIGS), Virtual, Dec 2022.
-•	Conference on Information Systems and Technologies (CIST), Indianapolis, Indiana, Oct 2022.
-•	BU Platform Strategy Research Symposium, Boston, Massachusetts, July 2022.
-•	Pacific Asia Conference on Information Systems (PACIS), Virtual, July 2022.
-•	Statistical Challenges in Electronic Commerce Research (SCECR), Madrid, Spain, June 2022.*
-•	Workshop on Information Systems and Economics (WISE), Austin, Texas, Dec 2021.
-•	KrAIS Research Workshop (KrAIS), Austin, Texas, Dec 2021.
-[3]	T. Kim, I. Im, J. Park, Y. Bang. “How Does Receipt-based Consumer Verification Affect Online Reviews?” 
-•	KrAIS Research Workshop (KrAIS), Copenhagen, Denmark, 2022.* [Best Student Paper Runner-up]
-•	Korea Society of IT Services Fall Conference, Seoul, Korea, 2022.* [Best Paper]
-[4]	T. Kim, J. Park, and I. Im. “The Effect of Reward Provision Timing in Mobile Application Platforms: A Social Exchange Theory Perspective” 
-•	Americas Conference on Information Systems (AMCIS), Virtual, Aug 2020.*
+[1]	**J. Park**, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, _KrAIS Summer Workshop_, Seoul, Korea.
+
+[1]	**J. Park**, M. Lee, and G. M. Lee. (2023) “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”, _Montreal Symposium on IS Research (MSISR)_, Montreal, Quebec.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Bright Internet Global Summit (BIGS)_, Virtual.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Conference on Information Systems and Technologies (CIST)_, Indianapolis, Indiana.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _BU Platform Strategy Research Symposium_, Boston, Massachusetts.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Pacific Asia Conference on Information Systems (PACIS)_, Virtual.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2022) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Statistical Challenges in Electronic Commerce Research (SCECR)_, Madrid, Spain.*
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2021) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _Workshop on Information Systems and Economics (WISE)_, Austin, Texas.
+
+[2]	**J. Park**, A. Aziz, and G. M. Lee. (2021) “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”, _KrAIS Research Workshop (KrAIS)_, Austin, Texas.
+
+[3]	T. Kim, I. Im, J. Park, Y. Bang. (2022) “How Does Receipt-based Consumer Verification Affect Online Reviews?”, _KrAIS Research Workshop (KrAIS)_, Copenhagen, Denmark.* [Best Student Paper Runner-up]
+
+T. Kim, I. Im, J. Park, Y. Bang. (2022) “How Does Receipt-based Consumer Verification Affect Online Reviews?”, _Korea Society of IT Services Fall Conference_, Seoul, Korea.* [Best Paper]
+
+[4]	T. Kim, J. Park, and I. Im. (2020) “The Effect of Reward Provision Timing in Mobile Application Platforms: A Social Exchange Theory Perspective”, _Americas Conference on Information Systems (AMCIS)_, Virtual.*
 [5]	J. A. Laddaran, J. Park, and I. Im. “When and How to Advertise? An Empirical Study on Mobile Ad Response Based on Contextual Factors” 
 •	Americas Conference on Information Systems (AMCIS), Virtual, Aug 2020.*
 [6]	J. Yoo, J. Park, and J. Son. “Three Qualities of OTT Services: A Mixed Methods Approach” 
