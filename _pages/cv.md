@@ -25,11 +25,12 @@ Education
 Teaching
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * COMM337: Business Programming and Analytics (Fall 2023)
 
 * **Teaching** Assistant at Sauder School of Business, University of British Columbia
-  <ul>{% for post in site.ta %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Graduate Courses
+    * BAIT508: Business Analytics Programming (Fall 2020, Fall 2022)
+    * BA515: Fundamentals of Analytics and Technology (Fall 2021, Fall 2022(2))
+  * Undergraduate Courses
+    * COMM438: Management of Information Systems (Spring 2021, Fall 2021)
+    * COMM337: Business Programming and Analytics (Spring 2021)
