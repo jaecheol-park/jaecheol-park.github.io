@@ -1,15 +1,12 @@
 ---
 title: "Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic"
 collection: workingpapers
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023_mobile_resilience
+excerpt: 'Presented at Montreal Symposium on Information Systems Research 2023, KrAIS Summer Workshop 2023'
+date: 2023-08-15
+venue: 'Working Paper'
+paperurl: ''
+citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
+The use of mobile IT, providing employees with accessibility, flexibility, and responsiveness, has become increasingly vital for businesses, especially for remote and hybrid work during the COVID-19 pandemic. However, despite its growing significance, the business value of mobile device management (MDM) and its role in establishing digital resilience remain underexplored in the literature. To address this research gap, our study examines the effect of MDM on a firm’s resilience to the pandemic. Using proprietary data from a global MDM solution provider for public U.S. firms, we find that firms with MDM had a better financial performance during the pandemic, demonstrating greater resilience to the shock. Furthermore, we observe heterogeneous effects across industries: firms in industry sectors demanding greater mobility in work will have a greater resilience effect from MDM. This study contributes to the literature by emphasizing the crucial role of MDM in building digital resilience.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
