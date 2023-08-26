@@ -4,6 +4,7 @@ collection: ta
 type: "Master of Business Analytics"
 permalink: /ta/BAIT508
 venue: "Sauder School of Business, University of British Columbia"
+date: 2023-09-01
 ---
 
 Description
