@@ -47,3 +47,31 @@ Teaching Experience
   * Undergraduate Courses
     * [COMM438: Management of Information Systems](https://jaecheol-park.github.io/ta/COMM438) (Spring 2021, Fall 2021)
     * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/ta/COMM337) (Spring 2021)
+
+Grants, Fellowships, and Awards
+======
+* Best Student Paper Runner-up, _KrAIS Research Workshop (KrAIS)_, 2022
+* Best Paper, _Korea Society of IT Services Fall Conference_, 2022
+* Best Student Paper, _KrAIS Research Workshop (KrAIS)_, 2018/2019
+* Doctoral Recruitment Fellowship, 2020-Present
+* Doctoral Recruitment Fellowship Tuition Award, 2020-Present
+* President's Academic Excellence Initiative PhD Award, 2020-Present
+* International Tuition Award, 2020-Present
+* Dean Earle D MacPhee Memorial Fellowship in Commerce and Business Administration, 2020,2023
+
+Academic Services
+======
+* Journal Reviewer
+  * Data & Knowledge Engineering, 2021
+* Conference Reviewer
+  * International Conference on Information Systems (ICIS), 2020-2023
+  * Hawaii International Conference on System Science (HICSS), 2021-2024
+  * Pacific Asia Conference on Information Systems (PACIS), 2021-2022
+  * Americas Conference on Information Systems (AMCIS), 2020
+  * Workshop on Information Technologies and Systems (WITS), 2022
+  * Conference on Information Systems and Technology (CIST), 2023
+  * KrAIS Research Workshop (KrAIS), 2021/2023
+
+
+
+
