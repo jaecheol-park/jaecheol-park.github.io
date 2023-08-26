@@ -20,21 +20,21 @@ Education
   * Major: Information Systems 
 * **B.B.A.** & **B.A.**, School of Business, Yonsei University, 2017
   * Majors: Business Administration & Applied Statistics (Dual Degree)
-* **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
+* **Exchange Student**, College of Business, Dublin Institute of Technology, 2015  
 
 
 Working Papers/Work-in-Progress
 ======
   <ul>{% for post in site.workingpapers reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>  
 
 
 Other Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>  
 
   
 Teaching Experience
