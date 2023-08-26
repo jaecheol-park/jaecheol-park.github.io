@@ -11,8 +11,6 @@ redirect_from:
 
 A PDF will be updated
 
-<br/>
-
 Education
 ======
 * **Ph.D.**, Sauder School of Business, University of British Columbia, 2025 (expected)
