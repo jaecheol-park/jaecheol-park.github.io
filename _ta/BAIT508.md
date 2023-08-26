@@ -17,5 +17,5 @@ Prof. Gene Moo Lee
 
 Terms
 ======
-2023 Fall, 2022 Fall, 2020 Fall 
+Fall 2023, Fall 2022, Fall 2020 
 
