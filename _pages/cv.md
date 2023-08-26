@@ -47,14 +47,14 @@ Teaching
 * **Instructor** at Sauder School of Business, University of British Columbia
 
 
-    <ul Type="disk">{% for post in site.teaching %}
+    <ul type="disk">{% for post in site.teaching %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
 
 * **Teaching** Assistant at Sauder School of Business, University of British Columbia
 
 
-    <ul Type="disk">{% for post in site.ta %}
+    <ul type="disk">{% for post in site.ta %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
 
