@@ -4,7 +4,6 @@ collection: ta
 type: "Full-Time MBA/Professional MBA/Master of Management"
 permalink: /ta/BA515
 venue: "Sauder School of Business, University of British Columbia"
-date: 
 ---
 
 Description
