@@ -54,7 +54,7 @@ Teaching
 * **Teaching** Assistant at Sauder School of Business, University of British Columbia
 
 
-    <ul Type="disk">>{% for post in site.ta %}
+    <ul Type="disk">{% for post in site.ta %}
       {% include archive-single-cv.html %}
     {% endfor %}</ul>
 
