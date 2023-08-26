@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+<br/>
 
 <h1> Working Papers/Work-in-Progress </h1>
 {% for post in site.workingpapers reversed %}
