@@ -21,7 +21,7 @@ Education
 * **B.B.A.** & **B.A.**, School of Business, Yonsei University, 2017
   * Majors: Business Administration & Applied Statistics (Dual Degree)
 * **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
-\
+<br/>
 
 Working Papers/Work-in-Progress
 ======
