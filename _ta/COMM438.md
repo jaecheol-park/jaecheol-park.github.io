@@ -1,11 +1,10 @@
 ---
 title: "COMM438: Management of Information Systems"
 collection: ta
-type: "Full-Time MBA/Professional MBA/Master of Management"
-permalink: /ta/BA515
+type: "Undergraduate"
+permalink: /ta/COMM438
 venue: "Sauder School of Business, University of British Columbia"
 ---
-
 
 Description
 ======
