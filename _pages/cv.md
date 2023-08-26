@@ -36,26 +36,15 @@ Research
 Teaching
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
-  * COMM337: Business Programming and Analytics (Fall 2023)
+  * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/teaching/COMM337) (Fall 2023)
 
 * **Teaching** Assistant at Sauder School of Business, University of British Columbia
   * Graduate Courses
-    * BAIT508: Business Analytics Programming (Fall 2020, Fall 2022)
+    * [BAIT508: Business Analytics Programming](https://jaecheol-park.github.io/ta/BAIT508) (Fall 2020, Fall 2022)
     * BA515: Fundamentals of Analytics and Technology (Fall 2021, Fall 2022(2))
   * Undergraduate Courses
     * COMM438: Management of Information Systems (Spring 2021, Fall 2021)
     * COMM337: Business Programming and Analytics (Spring 2021)
 
-Teaching
-======
-* dsiofjao
-  
-  <ul type='disc'>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  <ul type='disc'>{% for post in site.ta %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 
