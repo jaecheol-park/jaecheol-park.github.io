@@ -41,3 +41,15 @@ Teaching
   * Undergraduate Courses
     * COMM438: Management of Information Systems (Spring 2021, Fall 2021)
     * COMM337: Business Programming and Analytics (Spring 2021)
+
+Teaching
+======
+* **Instructor** at Sauder School of Business, University of British Columbia
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+* **Teaching** Assistant at Sauder School of Business, University of British Columbia
+  <ul>{% for post in site.ta %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
