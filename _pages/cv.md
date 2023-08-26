@@ -22,9 +22,9 @@ Education
   * Majors: Business Administration & Applied Statistics (Dual Degree)
 * **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
