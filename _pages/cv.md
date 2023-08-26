@@ -22,20 +22,17 @@ Education
   * Majors: Business Administration & Applied Statistics (Dual Degree)
 * **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
 
-Research
+Working Papers/Work-in-Progress
 ======
-# Research
-## Research
-### Research
-
   <ul>{% for post in site.workingpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Other Publications
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
   
 Teaching
 ======
@@ -49,16 +46,3 @@ Teaching
   * Undergraduate Courses
     * COMM438: Management of Information Systems (Spring 2021, Fall 2021)
     * COMM337: Business Programming and Analytics (Spring 2021)
-
-
-Teaching
-======
-## **Instructor** at Sauder School of Business, University of British Columbia
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## **Teaching** Assistant at Sauder School of Business, University of British Columbia
-  <ul>{% for post in site.ta %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
