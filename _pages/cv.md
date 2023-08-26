@@ -21,6 +21,7 @@ Education
 * **B.B.A.** & **B.A.**, School of Business, Yonsei University, 2017
   * Majors: Business Administration & Applied Statistics (Dual Degree)
 * **Exchange Student**, College of Business, Dublin Institute of Technology, 2015
+
 <br/>
 
 Working Papers/Work-in-Progress
@@ -35,6 +36,8 @@ Other Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
+<br/>
+
 Teaching Experience
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
@@ -48,6 +51,8 @@ Teaching Experience
     * [COMM438: Management of Information Systems](https://jaecheol-park.github.io/ta/COMM438) (Spring 2021, Fall 2021)
     * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/ta/COMM337) (Spring 2021)
 
+<br/>
+
 Grants, Fellowships, and Awards
 ======
 * Best Student Paper Runner-up, _KrAIS Research Workshop (KrAIS)_, 2022
@@ -58,6 +63,8 @@ Grants, Fellowships, and Awards
 * President's Academic Excellence Initiative PhD Award, 2020-Present
 * International Tuition Award, 2020-Present
 * Dean Earle D MacPhee Memorial Fellowship in Commerce and Business Administration, 2020,2023
+
+<br/>
 
 Academic Services
 ======
