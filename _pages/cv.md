@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 A PDF will be updated
 
 <br/>
