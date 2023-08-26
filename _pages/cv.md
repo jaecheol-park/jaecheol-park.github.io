@@ -24,7 +24,11 @@ Education
 
 Research
 ======
-  <ul>{% for post in site.research reversed %}
+  <ul>{% for post in site.workingpapers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -44,7 +48,8 @@ Teaching
 
 Teaching
 ======
-
+* dsiofjao
+  
   <ul type='disc'>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
