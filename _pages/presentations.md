@@ -42,7 +42,7 @@ author_profile: true
 <br/><br/>
 
 7.	Y. Kwon, **J. Park**, and J. Son. “Accurately or Accidentally? Recommendation Agent and Search Experience in Over-The-Top (OTT) Services” 
-  *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2020.* **[Best Student Paper]**
+  *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2019.* **[Best Student Paper]**
 <br/><br/>
 
 8.	K. Lee, J. Kim, T. Kim, **J. Park**, L. J. Anne, and I. Im. “Empirical Analysis of Transfer Motivation in Soccer Using Machine Learning Techniques”
