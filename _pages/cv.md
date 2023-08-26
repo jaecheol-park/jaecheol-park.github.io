@@ -46,14 +46,14 @@ Teaching
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
 
-  {% for post in site.teaching %}
+  <ul type='disc'>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 * **Teaching** Assistant at Sauder School of Business, University of British Columbia
 
-  {% for post in site.ta %}
+  <ul type='disc'>{% for post in site.ta %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 
