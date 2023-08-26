@@ -6,6 +6,7 @@ permalink: /ta/BA515
 venue: "Sauder School of Business, University of British Columbia"
 ---
 
+
 Description
 ======
 Managerial issues in the administration of computerized information systems.
