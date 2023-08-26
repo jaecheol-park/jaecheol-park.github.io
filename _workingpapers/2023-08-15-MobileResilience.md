@@ -10,8 +10,8 @@ citation:
 ---
 
 ## Authors
-Jaecheol Park
-Myunghwan Lee (University of British Columbia)
+Jaecheol Park\
+Myunghwan Lee (University of British Columbia)\
 Gene Moo Lee (University of British Columbia)
 
 ## Abstract
