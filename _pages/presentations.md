@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conference and Workshop Presentations"
-permalink: /research/
+permalink: /presentations/
 author_profile: true
 ---
 
