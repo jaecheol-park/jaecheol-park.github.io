@@ -34,12 +34,12 @@ Other Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
   * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/teaching/COMM337) (Fall 2023)
 
-* **Teaching** Assistant at Sauder School of Business, University of British Columbia
+* **Teaching Assistant** at Sauder School of Business, University of British Columbia
   * Graduate Courses
     * [BAIT508: Business Analytics Programming](https://jaecheol-park.github.io/ta/BAIT508) (Fall 2020, Fall 2022)
     * BA515: Fundamentals of Analytics and Technology (Fall 2021, Fall 2022(2))
