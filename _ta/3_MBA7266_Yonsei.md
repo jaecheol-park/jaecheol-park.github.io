@@ -1,4 +1,4 @@
-  ---
+---
 title: "MBA7266: Business Game for Intensive Decision Making"
 collection: ta
 type: "Graduate"
