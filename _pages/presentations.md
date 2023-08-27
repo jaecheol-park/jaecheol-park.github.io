@@ -57,3 +57,4 @@ author_profile: true
 10. J. Meng, **J. Park**, and I. Im. “The Effect of Online Social Capital, Star Ratings, and Popularity Information on Subsequent Sales Volume on Knowledge-Sharing Market in China: Evidence from 'Zhihu Live'”
   *	_Korean Society of Management Information Systems (KMIS) Fall Conference_, Seoul, Korea, Nov 2018.*
 
+
