@@ -27,3 +27,4 @@ Mobile IT, digital resilience, firm performance, COVID-19 pandemic
 * Boston University Platform Strategy Research Symposium (BT Plat) 2022
 * Conference on Information Systems and Technology (CIST) 2022
 * Bright Internet Global Summit (BIGS) 2022
+
