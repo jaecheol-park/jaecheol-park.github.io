@@ -24,3 +24,4 @@ Mobile IT, digital resilience, firm performance, COVID-19 pandemic
 * Montreal Symposium on Information Systems Research (MSISR) 2023
 * KrAIS Summer Workshop 2023
 
+
