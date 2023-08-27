@@ -5,8 +5,6 @@ permalink: /workingpapers/2023-08-MobileResilience
 presentation: '- Presented at MSISR 2023, KrAIS Summer Workshop 2023'
 date: 2023-08-15
 type: 'Working Paper'
-paperurl: 
-citation: 
 ---
 
 ## Authors
