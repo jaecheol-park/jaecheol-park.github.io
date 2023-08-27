@@ -26,7 +26,7 @@ Education
 
 Research Interests
 ======
-* Topic: Economics of Information Systems
+* Topics: Economics of Information Systems, Platform and User Behavior 
 * Methods: Econometrics, Machine Learning
 
 <br/>
