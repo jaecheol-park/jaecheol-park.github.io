@@ -28,3 +28,4 @@ Mobile IT, digital resilience, firm performance, COVID-19 pandemic
 * Conference on Information Systems and Technology (CIST) 2022
 * Bright Internet Global Summit (BIGS) 2022
 
+
