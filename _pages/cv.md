@@ -55,7 +55,7 @@ Teaching Experience
 
 <br/>
 
-Grants, Fellowships, and Awards
+Grants, Honors, and Awards
 ======
 * Best Student Paper Runner-up, _KrAIS Research Workshop (KrAIS)_, 2022
 * Best Paper, _Korea Society of IT Services Fall Conference_, 2022
