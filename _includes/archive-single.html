@@ -31,10 +31,10 @@
       {% if post.collection == 'publications' %}
         {{ post.title }}
       {% elsif post.collection %}
-        {% if post.link %}
-          {{ post.title }}
-        {% elsif post.permalink %}
+        {% if post.permalink %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% elsif %}
+          {{ post.title }}
         {% endif %}
       {% endif %}
     </h2>
