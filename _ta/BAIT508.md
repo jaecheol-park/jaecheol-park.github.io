@@ -17,10 +17,6 @@ Prof. Gene Moo Lee
 
 Program
 ======
-Master of Business Analytics
-
-Terms
-======
-Fall 2023, Fall 2022, Fall 2020 
+Master of Business Analytics (Fall 2023, Fall 2022, Fall 2020) 
 
 
