@@ -2,7 +2,7 @@
 title: "Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic"
 collection: workingpapers
 permalink: /workingpapers/2023-08-MobileResilience
-presentation: '- Presented at MSISR 2023, KrAIS Summer Workshop 2023'
+presentation: 'Presented at MSISR 2023, KrAIS Summer Workshop 2023'
 date: 2023-08-15
 type: 'Working Paper'
 ---
