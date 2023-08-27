@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi
-======
-
-+
+I am currently a Ph.D. student in Management Information Systems at Sauder School of Business, University of British Columbia.
