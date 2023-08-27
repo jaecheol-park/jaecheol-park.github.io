@@ -1,7 +1,7 @@
 ---
 title: "BAIT508: Business Analytics Programming"
 collection: ta
-type: "Master of Business Analytics"
+type: "Graduate"
 permalink: /ta/BAIT508
 venue: "Sauder School of Business, University of British Columbia"
 date: 2023-09-05
@@ -14,6 +14,10 @@ Programming for business analytics; problem definition, software design, program
 Instructor
 ======
 Prof. Gene Moo Lee
+
+Program
+======
+Master of Business Analytics
 
 Terms
 ======
