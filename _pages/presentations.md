@@ -30,16 +30,16 @@ author_profile: true
 <br/><br/>
 
 4.	T. Kim, **J. Park**, and I. Im. “The Effect of Reward Provision Timing in Mobile Application Platforms: A Social Exchange Theory Perspective” 
-  *	[_Americas Conference on Information Systems (AMCIS)_](https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/9/), Virtual, Aug 2020.*
+  *	_Americas Conference on Information Systems (AMCIS)_, Virtual, Aug 2020.* <a href="https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/9//"><i class="fas fa-fw fa-link"></i></a>
 <br/><br/>
 
 5.	J. A. Laddaran, **J. Park**, and I. Im. “When and How to Advertise? An Empirical Study on Mobile Ad Response Based on Contextual Factors” 
-  *	[_Americas Conference on Information Systems (AMCIS)_](https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/11/), Virtual, Aug 2020.*
+  *	_Americas Conference on Information Systems (AMCIS)_, Virtual, Aug 2020.* <a href="https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/11/"><i class="fas fa-fw fa-link"></i></a>
 <br/><br/>
 
 6.	J. Yoo, **J. Park**, and J. Son. “Three Qualities of OTT Services: A Mixed Methods Approach” 
-  *	[_Americas Conference on Information Systems (AMCIS)_](https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/), Virtual, Aug 2020.*
-<br/><br/><a href="(https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/)"><i class="fas fa-fw fa-link"></i></a>
+  *	_Americas Conference on Information Systems (AMCIS)_, Virtual, Aug 2020.* <a href="https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/"><i class="fas fa-fw fa-link"></i></a>
+<br/><br/>
 
 7.	Y. Kwon, **J. Park**, and J. Son. “Accurately or Accidentally? Recommendation Agent and Search Experience in Over-The-Top (OTT) Services” 
   *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2019.* **[Best Student Paper]**
