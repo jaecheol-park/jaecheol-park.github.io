@@ -10,14 +10,14 @@ author_profile: true
 
 <h1> Instructor </h1>
 
-  {% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 <br>
 
 <h1> Teaching Assistant </h1>
 
-  {% for post in site.ta reversed %}
+  <ul>{% for post in site.ta reversed %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endfor %}</ul>
