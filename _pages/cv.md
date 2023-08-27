@@ -95,6 +95,3 @@ Academic Services
   * Conference on Information Systems and Technology (CIST), 2023
   * KrAIS Research Workshop (KrAIS), 2021/2023
 
-
-
-
