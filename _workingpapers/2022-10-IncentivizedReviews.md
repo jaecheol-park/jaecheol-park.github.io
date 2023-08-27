@@ -29,3 +29,4 @@ Mobile IT, digital resilience, firm performance, COVID-19 pandemic
 * Bright Internet Global Summit (BIGS) 2022
 
 
+
