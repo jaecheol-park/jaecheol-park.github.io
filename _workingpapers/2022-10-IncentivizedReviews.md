@@ -17,7 +17,7 @@ Gene Moo Lee (University of British Columbia)
 Will be updated
 
 ## Keywords
-Mobile IT, digital resilience, firm performance, COVID-19 pandemic
+Incentivized reviews, platform design, BERT, difference-in-differences
 
 ## Presentations
 * KrAIS Research Workshop (KrAIS) 2021
