@@ -10,7 +10,7 @@ type: 'Working Paper'
 
 ## Authors
 Jaecheol Park\
-Arslan Aziz (Meta)\
+Arslan Aziz (Meta Platforms, Inc.)\
 Gene Moo Lee (University of British Columbia)
 
 ## Abstract
