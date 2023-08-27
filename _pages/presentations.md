@@ -39,7 +39,7 @@ author_profile: true
 
 6.	J. Yoo, **J. Park**, and J. Son. “Three Qualities of OTT Services: A Mixed Methods Approach” 
   *	[_Americas Conference on Information Systems (AMCIS)_](https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/), Virtual, Aug 2020.*
-<br/><br/>
+<br/><br/><a href="(https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/)"><i class="fas fa-fw fa-link"></i></a>
 
 7.	Y. Kwon, **J. Park**, and J. Son. “Accurately or Accidentally? Recommendation Agent and Search Experience in Over-The-Top (OTT) Services” 
   *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2019.* **[Best Student Paper]**
