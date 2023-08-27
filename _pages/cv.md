@@ -24,6 +24,13 @@ Education
 
 <br/>
 
+Research Interests
+======
+* Topic: Economics of Information Systems
+* Methods: Econometrics, Machine Learning
+
+<br/>
+
 Working Papers/Work-in-Progress
 ======
   <ul>{% for post in site.workingpapers reversed %}
