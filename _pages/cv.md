@@ -51,7 +51,6 @@ Teaching Experience
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
   * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/teaching/COMM337) (Fall 2023)
-
 * **Teaching Assistant** at Sauder School of Business, University of British Columbia
   * Graduate Courses
     * [BAIT508: Business Analytics Programming](https://jaecheol-park.github.io/ta/BAIT508) (Fall 2020, Fall 2022)
@@ -59,6 +58,12 @@ Teaching Experience
   * Undergraduate Courses
     * [COMM438: Management of Information Systems](https://jaecheol-park.github.io/ta/COMM438) (Spring 2021, Fall 2021)
     * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/ta/COMM337) (Spring 2021)
+* **Teaching Assistant** at School of Business, Yonsei University
+  * Graduate Courses
+    * MBA7266: Business Game for Intensive Decision Making (Summer 2018)
+    * MBA6110, MBG6110, MBK6007: IT for Value Creation (Spring 2017, Spring 2018) 
+  * Undergraduate Courses
+    * BIZ3189: Management Information Systems (Spring 2017)
 
 <br/>
 
@@ -71,7 +76,9 @@ Grants, Honors, and Awards
 * Doctoral Recruitment Fellowship Tuition Award, 2020-Present
 * President's Academic Excellence Initiative PhD Award, 2020-Present
 * International Tuition Award, 2020-Present
-* Dean Earle D MacPhee Memorial Fellowship in Commerce and Business Administration, 2020,2023
+* Dean Earle D MacPhee Memorial Fellowship in Commerce and Business Administration, 2020/2023
+* YSB Scholarship, 2017
+* Teaching Assistant Scholarship, 2017-2018
 
 <br/>
 
