@@ -17,7 +17,7 @@ Gene Moo Lee (University of British Columbia)
 Will be updated
 
 ## Keywords
-Incentivized reviews, platform design, BERT, difference-in-differences
+Incentivized reviews, disclosure effect, herding effect, platform design, BERT, difference-in-differences
 
 ## Presentations
 * KrAIS Research Workshop (KrAIS) 2021
