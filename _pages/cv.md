@@ -47,7 +47,7 @@ Other Publications
 
 <br/>
 
-Teaching Experience
+Teaching Experiences
 ======
 * **Instructor** at Sauder School of Business, University of British Columbia
   * [COMM337: Business Programming and Analytics](https://jaecheol-park.github.io/teaching/COMM337) (Fall 2023)
