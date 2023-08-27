@@ -33,7 +33,7 @@
       {% elsif post.collection %}
         {% if post.permalink %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% elsif %}
+        {% else %}
           {{ post.title }}
         {% endif %}
       {% endif %}
