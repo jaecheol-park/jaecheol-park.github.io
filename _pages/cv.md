@@ -13,7 +13,7 @@ A PDF will be updated
 
 Education
 ======
-* **Ph.D.**, Sauder School of Business, University of British Columbia, 2025 (expected)
+* **Ph.D. Student**, Sauder School of Business, University of British Columbia, 2020-2025 (expected)
   * Major: Management Information Systems (Minor: Economics of Information Systems)
   * Committee: Dr. Gene Moo Lee (Chair) 
 * **M.S.**, School of Business, Yonsei University, 2019
