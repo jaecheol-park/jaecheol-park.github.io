@@ -7,6 +7,7 @@ venue: "Sauder School of Business, University of British Columbia"
 date: 2021-09-06
 ---
 
+
 Description
 ======
 Managerial issues in the administration of computerized information systems.
