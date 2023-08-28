@@ -10,7 +10,7 @@ date: 2021-01-12
 
 Description
 ======
-Introduction to object-oriented computer programming; computational thinking; program design; scripting; documentation techniques; file handling; database access; and web crawling techniques. Students will apply data structures and programming constructs to the development of business analytics and other related applications. Credit will be granted for only one of COMM 337 and CPSC 103.
+Introduction to object-oriented computer programming; computational thinking; program design; scripting; documentation techniques; file handling; database access; and web crawling techniques. Students will apply data structures and programming constructs to the development of business analytics and other related applications.
 
 Instructor
 ======
