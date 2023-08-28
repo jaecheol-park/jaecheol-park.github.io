@@ -87,11 +87,11 @@ Academic Services
 * Journal Reviewer
   * Data & Knowledge Engineering, 2021
 * Conference Reviewer
-  * International Conference on Information Systems (ICIS), 2020-2023
-  * Hawaii International Conference on System Science (HICSS), 2021-2024
-  * Pacific Asia Conference on Information Systems (PACIS), 2021-2022
+  * International Conference on Information Systems (ICIS), 2020-23
+  * Hawaii International Conference on System Science (HICSS), 2021-24
+  * Pacific Asia Conference on Information Systems (PACIS), 2021-22
   * Americas Conference on Information Systems (AMCIS), 2020
-  * Workshop on Information Technologies and Systems (WITS), 2022
+  * Workshop on Information Technologies and Systems (WITS), 2022-23
   * Conference on Information Systems and Technology (CIST), 2023
-  * KrAIS Research Workshop (KrAIS), 2021/2023
+  * KrAIS Research Workshop (KrAIS), 2021/23
 
