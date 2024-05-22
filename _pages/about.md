@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Jaecheol Park"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
