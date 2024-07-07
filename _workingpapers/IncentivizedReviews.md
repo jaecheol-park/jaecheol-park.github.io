@@ -26,6 +26,3 @@ Incentivized reviews, online reviews, disclosure, herding, platform design
 * Boston University Platform Strategy Research Symposium (BU Platform Strategy) 2022
 * Conference on Information Systems and Technology (CIST) 2022
 * Bright Internet Global Summit (BIGS) 2022
-
-
-BIGS 2022, CIST 2022, BU Platform Strategy 2022, PACIS 2022, SCECR 2022†, WISE 2021, KrAIS 2021, UBC Sauder 2021.
