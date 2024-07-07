@@ -9,7 +9,7 @@ author_profile: true
 
 (\* denotes a presentation by a co-author.)
 
-[1]	**J. Park**, M. Lee, J. F. Li, & G. M. Lee. “Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation” 
+[1]	**J. Park**, M. Lee, J. F. Li, & G. M. Lee. <a href="https://jaecheol-park.github.io/workingpapers/AIOrientation">“Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation”</a> 
   *	_Conference on Information Systems and Technologies (CIST)_, Seattle, WA, Oct 2024. (Submitted)
   *	_INFORMS Annual Meeting_, Seattle, WA, Oct 2024.
   *	_UBC Sauder MIS Seminar Series_, Vancouver, BC, Canada, Apr 2024.  
