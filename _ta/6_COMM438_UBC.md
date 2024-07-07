@@ -17,4 +17,4 @@ Prof. Arslan Aziz
 
 Programs
 ======
-Undergraduate Elective: Spring 2021, Fall 2021
+Undergraduate Elective: W2 2020, W1 2021
