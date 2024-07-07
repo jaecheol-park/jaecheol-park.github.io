@@ -16,7 +16,9 @@ Instructor
 ======
 Prof. Mi Zhou
 
-Terms
+Programs
 ======
-Spring 2021
+Undergraduate Elective: W2 2020, W2 2023
+
+
 
