@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jaecheol Park"
 title_separator          : "-"
 name                     : &name "Jaecheol Park"
-description              : &description "Ph.D. Student @ Sauder School of Business, University of British Columbia"
+description              : &description "Ph.D. Candidate @ Sauder School of Business, University of British Columbia"
 url                      : https://jaecheol-park.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaecheol-park/jaecheol-park.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jaecheol Park"
   avatar           : "Jaecheol Park Pre White.png"
-  bio              : "Ph.D. Student @ Sauder School of Business, University of British Columbia"
+  bio              : "Ph.D. Candidate @ Sauder School of Business, University of British Columbia"
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
