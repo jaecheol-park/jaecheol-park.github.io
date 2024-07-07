@@ -1,7 +1,7 @@
 ---
 title: "Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com"
 collection: workingpapers
-permalink: /workingpapers/2022-10-IncentivizedReviews
+permalink: /workingpapers/IncentivizedReviews
 presentation: 'Presented at KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022'
 date: 2022-10-01
 type: 'Working Paper'
