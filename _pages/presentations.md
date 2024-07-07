@@ -18,7 +18,7 @@ author_profile: true
 [2].	**J. Park**, M. Lee, and G. M. Lee. <a href="https://jaecheol-park.github.io/workingpapers/MDM">“The Effect of Mobile Device Management on Work-from-home Productivity: Insights from U.S. Public Firms”</a>
   *	Previous title: “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”
   *	_Communication, Digital Technology, and Organization (CTO), Annual Meeting of the Academy of Management (AOM)_, Chicago, IL, Aug 2024.  
-  *	_Workshop on e-Business (WeB)_, Hyderabad, India, Dec 2023. [Best Paper Nominee]
+  *	_Workshop on e-Business (WeB)_, Hyderabad, India, Dec 2023. **[Best Paper Nominee]**
   *	_Bright Internet Global Summit (BIGS)_, Virtual, Dec 2023.
   *	_KrAIS Summer Workshop_, Seoul, Korea, July 2023.
   *	_Montreal Symposium on IS Research (MSISR)_, Montreal, QC, May 2023.
