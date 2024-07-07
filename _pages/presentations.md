@@ -9,12 +9,12 @@ author_profile: true
 
 (\* denotes a presentation by a co-author.)
 
-1.	**J. Park**, M. Lee, and G. M. Lee. “Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic” 
+1.	**J. Park**, M. Lee, and G. M. Lee. <a href="https://jaecheol-park.github.io/workingpapers/2023-08-MobileResilience">“Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic”</a> 
   *	_KrAIS Summer Workshop_, Seoul, Korea, July 2023.
   *	_Montreal Symposium on IS Research (MSISR)_, Montreal, QC, May 2023. 
 <br/><br/>
 
-2.	**J. Park**, A. Aziz, and G. M. Lee. “Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”   
+2.	**J. Park**, A. Aziz, and G. M. Lee. <a href="https://jaecheol-park.github.io/workingpapers/2022-10-IncentivizedReviews">“Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com”</a>   
   *	_Bright Internet Global Summit (BIGS)_, Virtual, Dec 2022.
   *	_Conference on Information Systems and Technologies (CIST)_, Indianapolis, IN, Oct 2022.
   *	_BU Platform Strategy Research Symposium_, Boston, MA, July 2022.
