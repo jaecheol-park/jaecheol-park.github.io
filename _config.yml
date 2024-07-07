@@ -7,8 +7,6 @@
 
 
 # Site Settings
-minima:
-  skin: "dark"
 locale                   : "en-US"
 title                    : "Jaecheol Park"
 title_separator          : "-"
