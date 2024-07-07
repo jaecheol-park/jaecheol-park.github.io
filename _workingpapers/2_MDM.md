@@ -25,3 +25,4 @@ Mobile IT, business value of IT, mobile device management, productivity, digital
 * Bright Internet Global Summit (BIGS) 2023
 * Workshop on e-Business (WeB) 2023 **[Best Paper Nominee]**
 * Academy of Management (AOM) CTO 2024
+
