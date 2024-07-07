@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Jaecheol Park"
   avatar           : "Jaecheol Park Pre White.png"
-  bio              : "Ph.D. Candidate @ Sauder School of Business, University of British Columbia"
+  bio              : |
+    Ph.D. Candidate 
+    Sauder School of Business
+    University of British Columbia"
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
