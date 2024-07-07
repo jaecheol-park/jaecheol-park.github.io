@@ -29,7 +29,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
-        {{ post.title }}
+        {{ post.citation }} <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-link"></i></a>
       {% elsif post.collection %}
         {% if post.permalink %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
