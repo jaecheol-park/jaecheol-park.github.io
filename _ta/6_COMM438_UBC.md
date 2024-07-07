@@ -15,7 +15,6 @@ Instructor
 ======
 Prof. Arslan Aziz
 
-Terms
+Programs
 ======
-Spring 2021, Fall 2021
-
+Undergraduate Elective: Spring 2021, Fall 2021
