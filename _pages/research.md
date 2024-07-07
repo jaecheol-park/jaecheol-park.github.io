@@ -11,7 +11,7 @@ author_profile: true
 
 Working Papers/Work-in-Progress
 ======
-  <ul>{% for post in site.workingpapers reversed %}
+  <ul>{% for post in site.workingpapers %}
     {% include archive-single.html %}
   {% endfor %}</ul>
 
