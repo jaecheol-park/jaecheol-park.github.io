@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /files/Jaecheol_Park_CV_240707_website.pdf
+  - /resume/
 ---
 
 {% include base_path %}
