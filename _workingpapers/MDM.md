@@ -9,7 +9,7 @@ type: 'Working Paper'
 
 ## Authors
 Jaecheol Park\
-Myunghwan Lee (University of British Columbia)\
+Myunghwan Lee (Chinese University Hong Kong)\
 Gene Moo Lee (University of British Columbia)
 
 ## Abstract
