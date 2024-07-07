@@ -33,7 +33,7 @@ author_profile: true
   *	_Statistical Challenges in Electronic Commerce Research (SCECR)_, Madrid, Spain, June 2022.*
   *	_Workshop on Information Systems and Economics (WISE)_, Austin, TX, Dec 2021.
   *	_KrAIS Research Workshop (KrAIS)_, Austin, TX, Dec 2021.
-  *	_UBC Sauder MIS Seminar Series_, Vancouver, BC, Canada, OCt 2021
+  *	_UBC Sauder MIS Seminar Series_, Vancouver, BC, Canada, Oct 2021
 <br/>
 
 [4].	T. Kim, I. Im, **J. Park**, Y. Bang. “How Does Receipt-based Consumer Verification Affect Online Reviews?” 
