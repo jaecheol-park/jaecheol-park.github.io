@@ -2,7 +2,7 @@
 title: "The Effect of Mobile Device Management on Work-from-home Productivity: Insights from U.S. Public Firms"
 collection: workingpapers
 permalink: /workingpapers/MDM
-presentation: 'Presented at AOM COT 2024, WeB 2023 [Best Paper Nominee], BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023'
+presentation: 'Presented at AOM COT 2024, WeB 2023 **[Best Paper Nominee]**, BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023'
 date: 2023-08-15
 type: 'Working Paper'
 ---
