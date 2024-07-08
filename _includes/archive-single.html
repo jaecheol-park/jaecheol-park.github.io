@@ -27,7 +27,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {{ post.citation }} <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-link"></i></a>
       {% elsif post.collection %}
@@ -37,7 +37,7 @@
           {{ post.title }}
         {% endif %}
       {% endif %}
-    </h2>
+    </h3>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -47,8 +47,6 @@
           {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.collection == 'ta' %}
           {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-        {% elsif post.collection == 'publications' %}
-          {{ post.citation }} <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-link"></i></a>
         {% elsif post.collection == 'workingpapers' %}
           <i>{{ post.type }}</i><br>{{ post.presentation }}
         {% elsif post.date %}
