@@ -3,7 +3,7 @@ title: "Unpacking AI Transformation: The Impact of AI Strategies on Firm Perform
 collection: workingpapers
 permalink: /workingpapers/AIOrientation
 presentation: 'Presented at INFORMS Annual Meeting 2024, UBC Sauder 2024'
-date: 2024-06-15
+date: 2023-06-15
 type: 'Working Paper'
 ---
 
