@@ -13,7 +13,7 @@ author_profile: true
   *	_Conference on Information Systems and Technologies (CIST)_, Seattle, WA, Oct 2024. (Submitted)
   *	_INFORMS Annual Meeting_, Seattle, WA, Oct 2024.
   *	_UBC Sauder MIS Seminar Series_, Vancouver, BC, Canada, Apr 2024.  
-<br/><br/>
+<br/>
 
 2.	**Park, J.**, Lee, M., & Lee, G. M. <a href="https://jaecheol-park.github.io/workingpapers/MDM">The Effect of Mobile Device Management on Work-from-home Productivity: Insights from U.S. Public Firms</a>
   *	Previous title: Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic
