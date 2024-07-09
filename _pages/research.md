@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
+<br>
+
 Journal Publications and Papers Under Review/Revision
 ======
-5. <b>J. Park</b>, A. Aziz, & G. M. Lee. "[Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4718932)," Under revision for 2nd round review at <i>Information Systems Research</i>.
+5. <b>J. Park</b>, A. Aziz, & G. M. Lee. "[Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews)," Under revision for 2nd round review at <i>Information Systems Research</i>.
  * Presented at UBC Sauder 2021, KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022
+ * Available at [SSRN](https://papers.ssrn.com/abstract=4718932)
 <br>
 <br>
 4. J. A. Laddaran, <b>J. Park</b>, & I. Im. (2024). "Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors," <i>Asia Pacific Journal of the Information Systems</i>.
@@ -29,11 +33,10 @@ Journal Publications and Papers Under Review/Revision
 Papers in Preparation
 ======
 
-2. <b>J. Park</b>, M. Lee, & G. M. Lee. “The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms,” <i>Working Paper</i>.
- * Presented at AOM COT 2024, WeB 2023 [Best Paper Nominee], BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023
+2. <b>J. Park</b>, M. Lee, & G. M. Lee. “[The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms](https://jaecheol-park.github.io/workingpapers/MDM)”<br><i>Working Paper</i>
 <br>
 <br>
-1. <b>J. Park</b>, M. Lee, J. F. Li, & G. M. Lee. “Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation,” <i>Work-in-Progress</i>.
- * Presented at INFORMS Annual Meeting 2024, UBC Sauder 2024
+1. <b>J. Park</b>, M. Lee, J. F. Li, & G. M. Lee. “[Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation](workingpapers/AIOrientation)”
+ * <i>Work-in-Progress</i>.
 <br>
 
