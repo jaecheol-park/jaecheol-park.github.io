@@ -9,7 +9,6 @@ author_profile: true
 
 <br>
 <br>
-
 Journal Publications and Papers Under Review/Revision
 ======
 <ol reversed>
@@ -17,7 +16,6 @@ Journal Publications and Papers Under Review/Revision
 <li><b>J. Park</b>, A. Aziz, & G. M. Lee. "[Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews)," Under revision for 2nd round review at <i>Information Systems Research</i>.
 <br>Presented at <i>UBC Sauder 2021, KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022.</i>
 <br>Available at [SSRN](https://papers.ssrn.com/abstract=4718932)</li>
-<br>
 <br>
 <li>J. A. Laddaran, <b>J. Park</b>, & I. Im. (2024). "Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors," <i>Asia Pacific Journal of the Information Systems</i>.
 <br>
