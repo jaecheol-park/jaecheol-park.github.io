@@ -26,6 +26,7 @@ Papers in Preparation
 2. <b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>Work-in-Progress</i>
  - Presented at <i>INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
 <br>
+<br>
 
 Other Publications
 ======
