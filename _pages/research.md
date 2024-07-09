@@ -9,20 +9,12 @@ author_profile: true
 
 <br>
 
-Journal Publications and Papers Under Review/Revision
+Papers Under Review/Revision
 ======
 1. <b>Park, J.</b>, Aziz, A., & Lee, G. M. [<b>Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com</b>](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews).
  - Under revision for 2nd round review at <i>Information Systems Research</i>. (Available at [SSRN](https://papers.ssrn.com/abstract=4718932))
  - Presented at <i>UBC Sauder 2021, KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022.</i>
 <br>
-<br>
-2. Laddaran, J. A., <b>Park, J.</b>, & Im, I. (2024). Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors. <i>Asia Pacific Journal of the Information Systems</i>.  
-<br>
-3. Yoo, J. <b>Park, J.</b>, Jeon, H., & Son, J.-Y. (2022). [<b>Three Qualities of OTT Services: A Mixed Methods Approach</b>](https://www.earticle.net/Article/A408905). <i>Information Systems Review</i>, 24(1), 59-87.  
-<br>
-4. Kwon, Y., <b>Park, J</b>. & Son, J.-Y. (2021), [<b>Accurately or Accidentally? Recommendation Agent and Search Experience in Over-the-top (OTT) Services</b>](https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2020-0127/full/html). <i>Internet Research</i>, 31(2), 562-586.  
-<br>
-5. Choe, J., <b>Park, J.</b>, & Yoon, S. (2020). [<b>COVID-19, Social Distancing, Social Media: Evidence from Twitter and Facebook Users in Korea</b>](https://www.earticle.net/Article/A387912). <i>Asia Pacific Journal of the Information Systems</i>, 30(4), 785-807.  
 <br>
 
 Papers in Preparation
@@ -35,3 +27,14 @@ Papers in Preparation
  - Presented at <i>INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
 <br>
 
+Other Publications
+======
+
+1. Laddaran, J. A., <b>Park, J.</b>, & Im, I. (2024). Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors. <i>Asia Pacific Journal of the Information Systems</i>.  
+<br>
+2. Yoo, J. <b>Park, J.</b>, Jeon, H., & Son, J.-Y. (2022). [<b>Three Qualities of OTT Services: A Mixed Methods Approach</b>](https://www.earticle.net/Article/A408905). <i>Information Systems Review</i>, 24(1), 59-87.  
+<br>
+3. Kwon, Y., <b>Park, J</b>. & Son, J.-Y. (2021), [<b>Accurately or Accidentally? Recommendation Agent and Search Experience in Over-the-top (OTT) Services</b>](https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2020-0127/full/html). <i>Internet Research</i>, 31(2), 562-586.  
+<br>
+4. Choe, J., <b>Park, J.</b>, & Yoon, S. (2020). [<b>COVID-19, Social Distancing, Social Media: Evidence from Twitter and Facebook Users in Korea</b>](https://www.earticle.net/Article/A387912). <i>Asia Pacific Journal of the Information Systems</i>, 30(4), 785-807.  
+<br>
