@@ -9,6 +9,7 @@ author_profile: true
 
 <br>
 <br>
+
 Journal Publications and Papers Under Review/Revision
 ======
 <ol reversed>
@@ -33,6 +34,7 @@ Journal Publications and Papers Under Review/Revision
 
 Papers in Preparation
 ======
+
 <ol reversed>
 <li><b>J. Park</b>, M. Lee, & G. M. Lee. “[The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms](https://jaecheol-park.github.io/workingpapers/MDM)”<br><i>Working Paper</i>
 <br>Presented at <i>AOM COT 2024, WeB 2023 [Best Paper Nominee], BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i></li>
