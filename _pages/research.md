@@ -36,7 +36,7 @@ Papers in Preparation
 1. <b>J. Park</b>, M. Lee, & G. M. Lee. “[The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms](https://jaecheol-park.github.io/workingpapers/MDM)”<br><i>Working Paper</i>
 <br>Presented at <i>AOM COT 2024, WeB 2023 [Best Paper Nominee], BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i>
 <br>
-2. <b>J. Park</b>, M. Lee, J. F. Li, & G. M. Lee. “[Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation](workingpapers/AIOrientation)”<br><i>Work-in-Progress</i>
+2. <b>J. Park</b>, M. Lee, J. F. Li, & G. M. Lee. “[Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation](https://jaecheol-park.github.io/workingpapers/AIOrientation)”<br><i>Work-in-Progress</i>
 <br>Presented at <i>INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
 <br>
 
