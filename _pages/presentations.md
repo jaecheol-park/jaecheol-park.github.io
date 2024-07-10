@@ -47,7 +47,7 @@ author_profile: true
 
 6.	Laddaran, J. A., **Park, J.**, & Im, I. When and How to Advertise? An Empirical Study on Mobile Ad Response Based on Contextual Factors
   *	_Americas Conference on Information Systems (AMCIS)_, Virtual, Aug 2020.* <a href="https://aisel.aisnet.org/amcis2020/adv_info_systems_research/adv_info_systems_research/11/"><i class="fas fa-fw fa-link"></i></a>
-<br/
+<br/><br/>
 
 7.	Yoo, J. S., **Park, J.**, & Son, J. Three Qualities of OTT Services: A Mixed Methods Approach
   *	_Americas Conference on Information Systems (AMCIS)_, Virtual, Aug 2020.* <a href="https://aisel.aisnet.org/amcis2020/adoption_diffusion_IT/adoption_diffusion_IT/16/"><i class="fas fa-fw fa-link"></i></a>
