@@ -4,7 +4,6 @@ collection: ta
 type: "Graduate"
 permalink: /ta/BAIT508
 venue: "Sauder School of Business, University of British Columbia"
-date: 2023-09-05
 ---
 
 Description
