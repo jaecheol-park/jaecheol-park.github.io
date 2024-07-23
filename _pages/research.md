@@ -12,7 +12,7 @@ author_profile: true
 Papers Under Review/Revision
 ======
 1. <b>Park, J.</b>, Aziz, A., & Lee, G. M. [<b>Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com</b>](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews).
-  * Under major revision for 2nd round review at <i>Information Systems Research</i>. (Available at [SSRN](https://papers.ssrn.com/abstract=4718932))
+  * Under major revision for 2nd round review at <i>**Information Systems Research**</i>. (Available at [SSRN](https://papers.ssrn.com/abstract=4718932))
   * Presented at <i>UBC Sauder 2021, KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022.</i>
 <br/><br/>
 
