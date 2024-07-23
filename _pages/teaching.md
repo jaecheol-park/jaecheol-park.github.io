@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 Instructor
 ======
 * <a href="../teaching/COMM337.md" target="_blank">**COMM337: Business Programming and Analytics**</a>
@@ -43,5 +42,3 @@ Teaching Assistant
 * **BIZ3189: Management Information Systems**
   * Undergraduate, _School of Business_, _Yonsei University_, 2017
 <br/><br/>
-
-
