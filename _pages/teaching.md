@@ -17,19 +17,19 @@ Instructor
 
 Teaching Assistant
 ======
-* <a href="../ta/8_BAIT508_UBC">**BAIT508: Business Analytics Programming**</a> 
+* <a href="../ta/BAIT508">**BAIT508: Business Analytics Programming**</a> 
   * Graduate, _Sauder School of Business_, _University of British Columbia_, 2020/22-23
 <br/><br/>
 
-* <a href="../ta/7_BA515_UBC">**BA515: Fundamentals of Analytics and Technology**</a> 
+* <a href="../ta/BA515">**BA515: Fundamentals of Analytics and Technology**</a> 
   * Graduate, _Sauder School of Business_, _University of British Columbia_, 2021-22
 <br/><br/>
 
-* <a href="../ta/6_COMM438_UBC">**COMM438: Management of Information Systems**</a> 
+* <a href="../ta/COMM438">**COMM438: Management of Information Systems**</a> 
   * Undergraduate, _Sauder School of Business_, _University of British Columbia_, 2020-21
 <br/><br/>
 
-* <a href="../ta/5_COMM337_UBC">**COMM337: Business Programming and Analytics**</a> 
+* <a href="../ta/COMM337">**COMM337: Business Programming and Analytics**</a> 
   * Undergraduate, _Sauder School of Business_, _University of British Columbia_, 2021/23
 <br/><br/>
 
