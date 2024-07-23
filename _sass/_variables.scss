@@ -104,7 +104,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #0092ca !default;
+$link-color                 : mix($primary-color, $text-color, 40%) !default;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $text-color !default;
