@@ -23,6 +23,6 @@ Mobile IT, business value of IT, mobile device management, productivity, digital
 * Montreal Symposium on Information Systems Research (MSISR) 2023
 * KrAIS Summer Workshop 2023
 * Bright Internet Global Summit (BIGS) 2023
-* Workshop on e-Business (WeB) 2023 **[Best Paper Nominee]**
+* Workshop on e-Business (WeB) 2023 <span style="color:blue">**[Best Paper Nominee]**</span>
 * Academy of Management (AOM) CTO 2024
 
