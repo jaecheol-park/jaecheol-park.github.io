@@ -10,7 +10,7 @@ author_profile: true
 Instructor
 ======
 * <a href="../teaching/COMM337.md" target="_blank">**COMM337: Business Programming and Analytics**</a>
- * Undergraduate, _Sauder School of Business_, _University of British Columbia_, 2023
+  * Undergraduate, _Sauder School of Business_, _University of British Columbia_, 2023
 <br/><br/>
 
 Teaching Assistant
