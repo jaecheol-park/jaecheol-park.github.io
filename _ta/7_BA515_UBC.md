@@ -4,7 +4,6 @@ collection: ta
 type: "Graduate"
 permalink: /ta/BA515
 venue: "Sauder School of Business, University of British Columbia"
-date: 2022-09-01
 ---
 
 Description
