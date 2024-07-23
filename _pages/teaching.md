@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 Instructor
 ======
 * <a href="../teaching/COMM337.md" target="_blank">**COMM337: Business Programming and Analytics**</a>
