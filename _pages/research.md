@@ -12,14 +12,14 @@ author_profile: true
 Papers Under Review/Revision
 ======
 1. <b>Park, J.</b>, Aziz, A., & Lee, G. M. [<b>Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com</b>](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews).
-  * Under revision for 2nd round review at <i>Information Systems Research</i>. (Available at [SSRN](https://papers.ssrn.com/abstract=4718932))
+  * Under major revision for 2nd round review at <i>Information Systems Research</i>. (Available at [SSRN](https://papers.ssrn.com/abstract=4718932))
   * Presented at <i>UBC Sauder 2021, KrAIS 2021, WISE 2021, PACIS 2022, SCECR 2022, BU Plat 2022, CIST 2022, BIGS 2022.</i>
 <br/><br/>
 
 Papers in Preparation
 ======
 1. <b>Park, J.</b>, Lee, M., & Lee, G. M. [<b>The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms</b>](https://jaecheol-park.github.io/workingpapers/MDM). <i>Working Paper</i>
-  * Presented at <i>AOM COT 2024, WeB 2023 <b>[Best Paper Nominee]</b>, BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i>
+  * Presented at <i>AOM COT 2024, WeB 2023 <span style="color:blue">**[Best Paper Nominee]**</span>, BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i>
 <br/><br/>
 2. <b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>Work-in-Progress</i>
   * Presented at <i>INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
