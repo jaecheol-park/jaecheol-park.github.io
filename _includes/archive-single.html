@@ -44,9 +44,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {{ post.type }}, <i>{{ post.venue }}</i>
         {% elsif post.collection == 'ta' %}
-          {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {{ post.type }}, <i>{{ post.venue }}</i>
         {% elsif post.collection == 'workingpapers' %}
           <i>{{ post.type }}</i><br>{{ post.presentation }}
         {% elsif post.date %}
