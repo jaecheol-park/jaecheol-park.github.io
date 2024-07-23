@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' or page.collection == 'ta'%}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ page.type }}, <i>{{ page.venue }}</i> </p>
         {% elsif page.collection == 'workingpapers' %}
            <p><i>{{ page.type }}</i>, Last updated in {{ page.date | default: "1900-01-01" | date: "%b, %Y" }} </p>
         {% elsif page.venue and page.date %}
