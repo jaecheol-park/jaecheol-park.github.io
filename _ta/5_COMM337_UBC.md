@@ -4,7 +4,6 @@ collection: ta
 type: "Undergraduate"
 permalink: /ta/COMM337
 venue: "Sauder School of Business, University of British Columbia"
-date: 2021-01-12
 ---
 
 Description
