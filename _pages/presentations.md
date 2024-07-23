@@ -18,7 +18,7 @@ author_profile: true
 2.	**Park, J.**, Lee, M., & Lee, G. M. <a href="https://jaecheol-park.github.io/workingpapers/MDM">The Effect of Mobile Device Management on Work-from-home Productivity: Insights from U.S. Public Firms</a>
   *	Previous title: Mobile Resilience: The Effect of Mobile Device Management on Firm Performance during the COVID-19 Pandemic
   *	_Communication, Digital Technology, and Organization (CTO), Annual Meeting of the Academy of Management (AOM)_, Chicago, IL, Aug 2024.  
-  *	_Workshop on e-Business (WeB)_, Hyderabad, India, Dec 2023. **[Best Paper Nominee]**
+  *	_Workshop on e-Business (WeB)_, Hyderabad, India, Dec 2023. <span style="color:blue"> **[Best Paper Nominee]** </span>
   *	_Bright Internet Global Summit (BIGS)_, Virtual, Dec 2023.
   *	_KrAIS Summer Workshop_, Seoul, Korea, July 2023.
   *	_Montreal Symposium on IS Research (MSISR)_, Montreal, QC, May 2023.
@@ -37,8 +37,8 @@ author_profile: true
 <br/><br/>
 
 4.	Kim, T., Im, I., **Park, J.**, & Bang, Y. How Does Receipt-based Consumer Verification Affect Online Reviews?
-  *	_KrAIS Research Workshop (KrAIS)_, Copenhagen, Denmark, Dec 2022.* **[Best Student Paper Runner-up]**
-  *	_Korea Society of IT Services Fall Conference_, Seoul, Korea, Nov 2022.* **[Best Paper]**
+  *	_KrAIS Research Workshop (KrAIS)_, Copenhagen, Denmark, Dec 2022.* <span style="color:blue"> **[Best Student Paper Runner-up]** </span>
+  *	_Korea Society of IT Services Fall Conference_, Seoul, Korea, Nov 2022.* <span style="color:blue"> **[Best Paper]** </span>
 <br/><br/>
 
 5.	Kim, T., **Park, J.**, & Im, I. The Effect of Reward Provision Timing in Mobile Application Platforms: A Social Exchange Theory Perspective
@@ -54,7 +54,7 @@ author_profile: true
 <br/><br/>
 
 8.	Kwon, Y., **Park, J.**, & Son, J. Accurately or Accidentally? Recommendation Agent and Search Experience in Over-The-Top (OTT) Services
-  *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2019.* **[Best Student Paper]**
+  *	_KrAIS Research Workshop (KrAIS)_, Munich, Germany, Dec 2019.* <span style="color:blue"> **[Best Student Paper]** </span>
 <br/><br/>
 
 9.	Lee, K., Kim, J., Kim, T., **Park, J.**, Laddaran, J. A., & Im, I. Empirical Analysis of Transfer Motivation in Soccer Using Machine Learning Techniques
@@ -62,7 +62,7 @@ author_profile: true
 <br/><br/>
 
 10.	**Park. J.**, Hong, G., Do, H., & Im, I. Why Consumers Shop in Social Network Services (SNS) Markets: Two-Factor Theory and Mixed-Methods Approach
-  *	_KrAIS Research Workshop (KrAIS)_, San Francisco, CA, Dec 2018. **[Best Student Paper]**
+  *	_KrAIS Research Workshop (KrAIS)_, San Francisco, CA, Dec 2018. <span style="color:blue"> **[Best Student Paper]** </span>
   *	_Korean Society of Management Information Systems (KMIS) Fall Conference_, Seoul, Korea, Dec 2017.
 <br/><br/>
 
