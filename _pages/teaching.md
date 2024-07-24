@@ -14,7 +14,7 @@ Instructor
 * <a href="../teaching/COMM337">**COMM337: Business Programming and Analytics**</a>
   * Undergraduate, _Sauder School of Business_, _University of British Columbia_, 2023
   * 2 Sections (50 and 48 students) after Midterm.
-  * Data Processing and Exploratory Analysis (NumPy, Pandas, and Matplotlib), Machine Learning (Supervised, Unsupervised, and Generative AI), and Text Analytics (Sentiment and WordCloud)
+  * Data Processing and Exploratory Analysis (_NumPy_, _Pandas_, and _Matplotlib_), Machine Learning (_Supervised_, _Unsupervised_, and _Generative AI_), and Text Analytics (_Sentiment_ and _WordCloud_)
 <br/><br/>
 
 Teaching Assistant
