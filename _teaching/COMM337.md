@@ -24,7 +24,7 @@ Topics
 
 Evaluation
 ======
--	4.3 and 4.2 (Sauder average: 4.2)
+-	4.3 and 4.2 (out of 5.0)
 
 Term
 =====
