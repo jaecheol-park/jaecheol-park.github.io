@@ -22,14 +22,14 @@ Papers in Preparation
   * Presentations: <i>AOM CTO 2024, WeB 2023 <span style="color:blue">**[Best Paper Nominee]**</span>, BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i>
 <br/><br/>
 
-2. <b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>Work-in-Progress</i>
-  * Presentations: <i>INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
+2. <b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>Working Paper</i>
+  * Presentations: <i>CIST 2024, INFORMS Annual Meeting 2024, UBC Sauder 2024</i>
 <br/><br/>
 
 Other Publications
 ======
 
-1. Laddaran, J. A., <b>Park, J.</b>, & Im, I. (2024). Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors. <i>Asia Pacific Journal of the Information Systems</i>.  
+1. Laddaran, J. A., <b>Park, J.</b>, & Im, I. (2024). Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors. <i>Asia Pacific Journal of the Information Systems</i>, 34(2), 518-540.
 
 2. Yoo, J. S. <b>Park, J.</b>, Jeon, H. J., & Son, J. (2022). [<b>Three Qualities of OTT Services: A Mixed Methods Approach</b>](https://www.earticle.net/Article/A408905). <i>Information Systems Review</i>, 24(1), 59-87.  
 
