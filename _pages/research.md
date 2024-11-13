@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-  - \* Authorship in alphabetical order, ^ based on the Master's work
-
+(\* denotes the authorship in alphabetical order, ^ denotes the work based on the Master's work.)
 <br>
 
 AI
