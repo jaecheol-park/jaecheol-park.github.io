@@ -1,9 +1,9 @@
 ---
-title: "Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance with a Dual Lens on Product and Process Orientation"
+title: "Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance from the Dynamic Capabilities Perspective"
 collection: workingpapers
 permalink: /workingpapers/AIOrientation
-presentation: 'Presented at INFORMS Annual Meeting 2024, UBC Sauder 2024'
-date: 2023-06-15
+presentation: 'Presented at SNU 2024, INFORMS Annual Meeting 2024, CIST 2024, UBC Sauder 2024'
+date: 2024-11-15
 type: 'Working Paper'
 ---
 
@@ -14,16 +14,14 @@ J. Frank Li (University of British Columbia)\
 Gene Moo Lee (University of British Columbia)
 
 ## Abstract
-Artificial intelligence (AI) technologies hold great potential for large-scale economic impact. Aligned with this trend, recent studies explore the adoption impact of AI technologies on firm performance. 
-However, they predominantly measure AI capabilities with input (e.g., labor/job posting), neglecting to consider the strategic use of such AI input in business operations and value creation. 
-In this paper, we empirically examine how firms’ strategic AI orientation affects firm performance with a dual lens on product and process orientation. 
-We create a novel firm-year level AI orientation measure by employing a large language model to analyze business descriptions in Form 10-K filings, and identify an increasing trend of AI disclosure among U.S. public firms. 
-By further dissecting firms’ AI disclosure into AI mention and AI (product and process) orientation, our long-difference analyses show that AI orientation significantly affects costs, sales, and market value but AI mention does not, showing the importance of strategic deployment of AI to create business value. 
-Moreover, we find the heterogeneous effects across AI product orientation and AI process orientation on performance. This study contributes to the recent AI management literature by providing the strategic role of AI orientation on firm performance.
+Artificial intelligence (AI) technologies hold great potential for large-scale economic impact. Aligned with this trend, recent studies explore the impact of AI technologies on firm performance. However, they predominantly measure firms’ AI capabilities with input (e.g., labor/job posting) or output (e.g., patents), neglecting to consider the strategic direction toward AI in business operations and value creation. In this paper, we empirically examine how firms’ AI strategic orientation affects firm performance from a dynamic capabilities perspective. We create a novel firm-year AI strategic orientation measure by employing a large language model to analyze business descriptions in 10-K filings and identify an increasing trend and changing status of AI strategies among U.S. public firms. Our long-difference analysis shows that AI strategic orientation is associated with greater operating cost, capital expenditure, and market value but not sales, showing the importance of strategic direction toward AI to create business value. By further dissecting firms’ AI strategic orientation into AI awareness, AI product orientation, and AI process orientation, we find that AI awareness is generally not related to performance, that AI product orientation is associated with short-term increased operating expenses and long-term market value, and that AI process orientation is associated with long-term increased costs and sales. Moreover, we find the moderating effect of environmental dynamism. This study contributes to the recent AI strategy and management literature by providing the strategic role of AI orientation on firm performance.
 
 ## Keywords
-Artificial Intelligence, technological change, business value of IT, AI strategy, product-oriented strategy, process-oriented strategy
+Artificial Intelligence, technological change, AI strategy, dynamic capabilities, business value of IT, industry dynamism
 
 ## Presentations
-* UBC Sauder MIS Seminar Series 2024
+* Seoul National University 2024
 * INFORMS Annual Meeting 2024
+* CIST 2024
+* UBC Sauder MIS Seminar Series 2024
+
