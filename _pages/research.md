@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-  - * Authorship in alphabetical order, ^ based on the Master's work
+  - \* Authorship in alphabetical order, ^ based on the Master's work
 
 <br>
 
