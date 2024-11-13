@@ -7,17 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-  * AUTHORSHIP IN ALPHABETICAL ORDER, ^ BASED ON THE MASTER’S WORK
+  * Authorship in alphabetical order, ^ based on the Master's work
 
 <br>
 
 AI
 ======
-[1]	Park, J., Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance from the Dynamic Capabilities Perspective</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>**Job Market Papaer**</i>. 
+[1].	Park, J., Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance from the Dynamic Capabilities Perspective</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>**Job Market Papaer**</i>. 
   * Presentations: <i>CIST 2024, INFORMS Annual Meeting 2024, SNU 2024, UBC Sauder 2024.</i>
 <br/>
 
-[2]	Lee, G. M.,* Park, J.,* Vijayaraghavan, R.,* & Wu, P.* Audit Quality in the Age of AI. <i>Work-in-Progress</i>.
+[2].	Lee, G. M.,* Park, J.,* Vijayaraghavan, R.,* & Wu, P.* Audit Quality in the Age of AI. <i>Work-in-Progress</i>.
 <br/>
 
 [3]	Lee, G. M.,* Park, J.,* Vijayaraghavan, R.,* & Wu, P.* AI and Financial Industry: Evidence from Public and Private Firms. <i>Work-in-Progress</i>.
