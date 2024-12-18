@@ -9,11 +9,10 @@ author_profile: true
 
 -	Topics: Economics of emerging IT management and strategies (AI, mobile IT, and platforms)
 -	Methods: Econometrics, machine learning, natural language processing, generative AI
-<br>
+<br/><br/>
 
 # Research Pipeline
 (\* denotes the authorship in alphabetical order, ^ denotes the work based on the Master's work.)
-<br>
 
 ## AI/ML
 1.	<b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance from the Dynamic Capabilities Perspective</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>**Job Market Papaer**</i>.
