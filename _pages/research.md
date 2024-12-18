@@ -1,12 +1,17 @@
 ---
 layout: archive
-title: "Research Program"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
+-	Topics: Economics of emerging IT management and strategies (AI, mobile IT, and platforms)
+-	Methods: Econometrics, machine learning, natural language processing, generative AI
+
+Research Pipeline
+======
 (\* denotes the authorship in alphabetical order, ^ denotes the work based on the Master's work.)
 <br>
 
