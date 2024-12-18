@@ -13,7 +13,7 @@ author_profile: true
 AI/ML
 ======
 1.	<b>Park, J.</b>, Lee, M., Li, J. F., & Lee, G. M. [<b>Unpacking AI Transformation: The Impact of AI Strategies on Firm Performance from the Dynamic Capabilities Perspective</b>](https://jaecheol-park.github.io/workingpapers/AIOrientation). <i>**Job Market Papaer**</i>.
-  - Presentations: <i> KrAIS 2024, BIGS 2024 <span style="color:blue">**[Best Paper Award]**</span>, SNU 2024, CIST 2024, INFORMS Annual Meeting 2024, UBC Sauder 2024.</i>
+  - Presentations: <i> KrAIS 2024 <span style="color:blue">**[Best Student Paper Award]**</span>, BIGS 2024 <span style="color:blue">**[Best Paper Award]**</span>, SNU 2024, CIST 2024, INFORMS Annual Meeting 2024, UBC Sauder 2024.</i>
 
 2.	Lee, G. M.,* <b>Park, J.</b>,* Vijayaraghavan, R.,* & Wu, P.* Audit Quality in the Age of AI. <i>Work-in-Progress</i>.
 
