@@ -26,7 +26,7 @@ author_profile: true
 4.	<b>Park, J.</b> & Lee, G. M. On-device AI and Productivity. <i>Work-in-Progress</i>.
 
 5.	Kwon, Y., <b>Park, J.</b>, & Son, J. (2021). [Accurately or Accidentally? Recommendation Agent and Search Experience in Over-the-top (OTT) Services](https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2020-0127/full/html). <i>Internet Research</i>, 31(2), 562–586.^
-<br/><br/>
+<br/>
 
 ## Mobile IT/Channel
 6.	<b>Park, J.</b>, Lee, M., & Lee, G. M. [<b>The Effect of Mobile Device Management on Work-from-home Productivity: Insights from US Public Firms</b>](https://jaecheol-park.github.io/workingpapers/MDM). <i>Working Paper</i>
@@ -34,7 +34,7 @@ author_profile: true
   - Presentations: <i>AOM CTO 2024, WeB 2023 <span style="color:blue">**[Best Paper Nominee]**</span>, BIGS 2023, KrAIS Summer 2023, MSISR 2023, KrAIS Summer Workshop 2023.</i>
 
 7.	Laddaran, J. A., <b>Park, J.</b>, & Im, I. (2024). [Where and How to Advertise? An Empirical Study on Mobile Ad Attitude and Response Based on Contextual Factors](https://doi.org/10.14329/apjis.2024.34.2.518). <i>Asia Pacific Journal of the Information Systems</i>, 34(2), 518–540.^
-<br/><br/>
+<br/>
 
 ## Platform/Social Media
 8.	<b>Park, J.</b>, Aziz, A., & Lee, G. M. [<b>Do Incentivized Reviews Poison the Well? Evidence from a Natural Experiment at Amazon.com</b>](https://jaecheol-park.github.io/workingpapers/IncentivizedReviews). <i>Working Paper</i>
