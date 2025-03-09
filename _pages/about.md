@@ -14,6 +14,6 @@ I am Jaecheol Park, a Ph.D. candidate in [Management Information Systems](https:
 
 My research interests lie in **the economics of information systems** focusing on **management and strategies of emerging technologies** such as **AI**, **mobile IT**, and **platforms**. Methodologically, I employ econometrics with machine learning techniques to analyze large panel data to uncover business insights, generating contributions to academia and real-world decision makers in information systems policy and management.
 
-Prior to joining UBC, I received my Master of Science (MS) in [Information Systems](https://sites.google.com/site/isatyonsei/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4), Bachelor of Business Administration (BBA), and Bachelor of Art (BA) in Applied Statistics from Yonsei University.
+Prior to joining UBC, I received my Master of Science (MS) in [Information Systems](https://sites.google.com/site/isatyonsei/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4), Bachelor of Business Administration (BBA), and Bachelor of Arts (BA) in Applied Statistics from Yonsei University.
 
-<span style="color:blue">**I am on the 2024-2025 academic job market.** </span>
+
