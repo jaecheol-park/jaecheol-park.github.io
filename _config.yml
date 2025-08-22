@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jaecheol Park"
 title_separator          : "-"
 name                     : &name "Jaecheol Park"
-description              : &description "Ph.D. Candidate @ Sauder School of Business, University of British Columbia"
+description              : &description "Assistant Professor @ Nanyang Business School, Nanyang Technological University"
 url                      : https://jaecheol-park.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaecheol-park/jaecheol-park.github.io"
@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Jaecheol Park"
-  avatar           : "Jaecheol Park Pre White.png"
-  bio              : "Ph.D. Candidate<br>Sauder School of Business<br>University of British Columbia"
-  location         : "Vancouver, BC, Canada"
+  avatar           : "Jaecheol Park Profile Photo_NTU Web_2.png"
+  bio              : "Assistant Professor<br>Nanyang Business School<br>Nanyang Technological University"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=ifkgksAAAAAJ&hl=en&inst=17001591832933267808"
